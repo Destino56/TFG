@@ -1,0 +1,16 @@
+0;Trozo de pizza;(+10) de vida máxima;3;10;0;pizza.png
+1;Esencia maligna;(+2) de probabilidad de daño;4;2;0;esenciaMaligna.png
+2;Jeringa de hormonas;(+2) de daño;5;2;0;jeringa.png
+3;Sed de Sangre;Tus ataques tienen robo de vida;2;0;0;lifeSteal.png
+4;Litro de la Salud;Te curas 5 de vida tras cada combate;2;0;0;litro.png
+5;Garra rápida;Al fallar podrás atacar de nuevo;0;0;0;garra.png
+6;Escudo de Ares;Recibes la mitad de daño a partir de ahora;0;0;0;escudo.png
+7;Espinas de Cactus;Devuelves una parte del daño recibido;0;0;0;cactus.png
+8;Pluma de Fénix;Tras morir revives con la mitad de la vida;0;0;0;fenixFeather.png
+9;Ballesta ligera;Según entras en combate atacas a tu enemigo;0;0;0;crossbow.png
+10;Bolsita de Té;Ahora al beber de la fuente tu daño base se incrementa en 1;0;0;0;teaBag.png
+11;Ungüento carroñero;Tras derrotar a un enemigo, ganas 2 de vida máxima;0;0;0;aloeVera.png
+12;Esencia de miel pura;Al derrotar al jefe del piso te regenerar completamente;0;0;0;honeyDrop.png
+13;Pluma ligera;Aumenta en 1 la probabilidad de esquivar;6;1;0;plumaLigera.png
+14;Oraculo del Argonauta;Aumenta en 2 la precisión;7;2;0;oraculo.png
+15;Líquido corrosivo;Posibilidad de derrotar al enemigo automaticamente;0;0;0;liquidoCorrosivo.png

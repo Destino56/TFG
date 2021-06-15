@@ -1,0 +1,1 @@
+27;Samurai;100;100;8;4;3;8;characters/samurai;samurai;0;0;10;245;160;275;8

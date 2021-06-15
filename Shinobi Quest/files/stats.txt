@@ -1,0 +1,28 @@
+0;Shinobi;50;50;10;6;5;5;shinobi;shinobi;0;0;10;245;160;275;10
+1;Lobo;18;18;6;5;1;2;forestEnemies/lobo;lobo;125;100;400;375;410;350;6
+2;Planta Carnívora;20;20;6;5;0;2;forestEnemies/plantaCarnivora;plantaCarnivora;150;175;400;300;420;300;6
+3;Champi Monstro;25;25;10;2;0;2;forestEnemies/monsterMushroom;monsterMushroom;200;225;375;240;430;230;11
+4;Jabalí Arcano;20;20;8;4;2;5;forestEnemies/jabali;jabali;350;260;325;255;400;330;17
+5;Culebra de Bosque;12;12;4;6;3;5;forestEnemies/snake;snake;250;250;350;295;425;345;9
+6;Mjandirr, Guardian del Bosque;60;60;2;10;1;6;forestEnemies/druidBeast;druidBeast;350;350;325;170;425;245;22
+7;Víbora de Arena;10;10;4;4;6;5;desertEnemies/sandSnake;sandSnake;250;250;350;295;425;345;9
+8;Cactus despertado;20;20;4;6;0;3;desertEnemies/cactus;cactus;200;200;385;290;440;270;4
+9;Demonio de Arena;20;20;6;4;2;2;desertEnemies/sandDemon;sandDemon;200;300;385;205;400;245;3
+10;Escorpión de las arenas;25;25;2;7;1;4;desertEnemies/blackScorpion;blackScorpion;200;200;350;320;420;320;3
+11;Anubis, protectora de tumbas;55;55;10;4;1;4;desertEnemies/anubis;anubis;450;450;250;75;420;245;14
+12;Ciervo mutante;30;30;10;6;1;4;tundraEnemies/ciervo;ciervo;230;200;370;280;440;220;16
+13;Grifo;30;30;6;8;3;6;tundraEnemies/grifo;grifo;375;375;300;150;440;150;8
+14;Hombre Lobo;25;25;8;4;2;5;tundraEnemies/hombreLobo;hombreLobo;400;350;250;170;450;270;8
+15;Golem de Hielo;40;40;20;0;0;4;tundraEnemies/iceGolem;golemDeHielo;450;400;250;125;445;185;10
+16;Leviathan, el Terror Helado;80;80;10;10;3;10;tundraEnemies/terrorHelado;terrorHelado;450;450;250;80;450;180;29
+17;Sectario de Minos;30;30;6;5;1;5;cityEnemies/sectario;sectario;350;350;335;220;450;330;21
+18;Robot descontrolado;40;40;12;0;1;6;cityEnemies/robot;robot;300;150;375;320;475;275;32
+19;Araña mutante;35;35;14;2;1;6;cityEnemies/mutantSpider;mutantSpider;400;400;345;140;505;280;6
+20;Caballero esqueleto;45;45;4;10;0;5;cityEnemies/esqueletoCaballero;esqueletoCabalero;400;400;300;205;450;280;18
+21;Darkhim, el caballero Oscuro;90;90;5;15;0;5;cityEnemies/caballeroOscuro;caballeroOscuro;500;500;275;105;475;240;11
+22;Cráneo demoníaco;50;50;10;8;1;6;hellEnemies/demonio;demonio;300;300;320;255;420;230;8
+23;Wyvern de Fuego;45;45;4;12;6;8;hellEnemies/dragon;dragon;400;400;295;130;445;255;10
+24;Gólem de Pirita;60;60;0;20;0;2;hellEnemies/golemDeFuego;golemDeFuego;425;400;270;195;445;255;5
+25;Magma Slime;40;40;10;6;1;4;hellEnemies/slime;slime;425;400;270;295;430;330;22
+26;Kayjin dios del Inframundo;120;120;20;58;2;12;hellEnemies/infernal;infernal;525;500;220;105;430;280;26
+27;Samurai;100;100;8;4;3;8;characters/samurai;samurai;0;0;10;245;160;275;8
